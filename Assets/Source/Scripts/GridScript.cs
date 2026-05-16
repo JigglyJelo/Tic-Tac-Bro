@@ -154,7 +154,7 @@ public class GridScript : MonoBehaviour
         if(turn == 1){
             int startingRNG = Random.Range(1,100);
             //Cardinal Start
-            if(startingRNG <= 75){
+            if(startingRNG <= 50){
                 int cardinalChoice = Random.Range(0,4);
                 switch(cardinalChoice){
                     case 0:

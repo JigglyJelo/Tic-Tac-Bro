@@ -1,3 +1,12 @@
+Music Credits:
+Children's March Theme by Cleyton Kauffman: CC0
+https://opengameart.org/content/childrens-march-theme
+
+"Danse of Questionable Tuning" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+https://www.incompetech.com/music/royalty-free/index.html?isrc=USUAN1100506
+
 Original Music Notice
 The original release for the GMTK game jam and the post-jam 1.1 update used the songs:
 
