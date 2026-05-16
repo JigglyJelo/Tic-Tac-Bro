@@ -16,7 +16,7 @@ Lil Bro wants to play Tic-Tac-Toe with you what could possibly go wrong??
 * **Language:** C#
 
 ## Licenses
-* **Assets/Source/ (Game Logic & Structure):** Licensed under the [To be determined](LICENSE).
+* **Assets/Source/ (Game Logic & Structure):** Licensed under the [Apache 2.0](LICENSE).
 * **Assets/ (Creative Media):**
   * **Sprites and Images:** Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
   * **Font:** The *We're Diving* font is licensed under the [SIL Open Font License 1.1 (OFL)](https://openfontlicense.org/open-font-license-official-text/).
