@@ -599,7 +599,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Code: Apache 2.0
 
-    Sprites: CC BY 4.0
+    Images/Creative Assets: CC BY 4.0
 
     Font: OFL'
   m_isRightToLeft: 0
@@ -664,7 +664,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.149994, y: -375.55063, z: 977.8212, w: 83.63381}
+  m_margin: {x: -16.149994, y: -375.55063, z: 990.6077, w: 83.63381}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
