@@ -16,9 +16,13 @@ public class StartButtonScript : MonoBehaviour{
         GridScript.aiWins = 0;
         GridScript.playerWins = 0;
         if(gameObject.name.Equals("StartButton")) SceneManager.LoadScene("Cutscene");
-        else{
+        else if(gameObject.name.Equals("EndlessButton")){
             GameManager.songsIndex = 0;
             SceneManager.LoadScene("Game Scene");
-        } 
+        }else if(gameObject.name.Equals("CreditsButton")){
+            SceneManager.LoadScene("Credits Scene");
+        }else{
+            SceneManager.LoadScene("Main Menu");
+        }
     }
 }
